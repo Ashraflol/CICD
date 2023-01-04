@@ -1,3 +1,3 @@
 <?php
-echo "Ashraf Bhai is Great!!!!";
+echo "Ashraf Bhai is G!!!!";
 ?>
